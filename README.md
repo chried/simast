@@ -1,0 +1,2 @@
+# simast
+Simple and fast
