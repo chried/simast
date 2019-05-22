@@ -12,7 +12,6 @@
     <artifactId>simast-base</artifactId>
 
     <name>simast-base</name>
-    <!-- FIXME change it to the project's website -->
     <url>https://github.com/chried/simast</url>
     <description>存放一些基本的entity,vo,dto等基本类作为全局使用,不够再进行添加.</description>
 

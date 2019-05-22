@@ -12,7 +12,6 @@
     <artifactId>simast-core</artifactId>
 
     <name>simast-core</name>
-    <!-- FIXME change it to the project's website -->
     <url>https://github.com/chried/simast</url>
 
     <properties>
